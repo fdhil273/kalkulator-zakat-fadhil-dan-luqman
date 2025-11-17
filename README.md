@@ -4,7 +4,7 @@
 
 ## 👥 Tim Pengembang
 - **R. Achmad Fadhil I'tishom** - SMK Telkom Sidoarjo
-- **Luqman Zahid Abdurrokhman ** - SMK Telkom Sidoarjo
+- **Luqman Zahid Abdurrokhman** - SMK Telkom Sidoarjo
 
 ## 🚀 Fitur Utama
 - ✅ **Zakat Fitrah** - Hitung berdasarkan harga beras & jumlah orang
